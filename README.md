@@ -1,0 +1,2 @@
+# springcloudconfig
+用来存放springcloud测试configserver
